@@ -5,3 +5,11 @@ def square_array(array)
 
   end
 end
+
+def square_array(array)
+  arr []
+  array.collect { |i| arr << i ** 2}
+    return arr
+
+  end
+end
